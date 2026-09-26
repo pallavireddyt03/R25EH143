@@ -9,3 +9,7 @@ This repository is created as part of Activity 3: GitHub Fundamentals I. It demo
 - Practice writing meaningful commit messages.
 - Understand the importance of maintaining a clear project history.
 
+- ## GitHub Fundamentals
+
+A repository is a place where project files and their revision history are stored. A commit records a snapshot of changes made to the project. Meaningful commit messages make it easier to understand what was changed and why the change was made.
+
