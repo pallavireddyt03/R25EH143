@@ -13,3 +13,9 @@ This repository is created as part of Activity 3: GitHub Fundamentals I. It demo
 
 A repository is a place where project files and their revision history are stored. A commit records a snapshot of changes made to the project. Meaningful commit messages make it easier to understand what was changed and why the change was made.
 
+## Projects
+
+### Project 1: GitHub Fundamentals
+
+This project demonstrates my understanding of GitHub fundamentals, including repositories, branches, commits, pull requests, and GitHub Pages.
+
